@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BykAndrey/glocks/issues"
   },
-  "homepage": "https://github.com/BykAndrey/glocks#readme"
+  "homepage": "https://github.com/BykAndrey/glocks#readme",
+  "dependencies": {
+    "mathjs": "^6.2.5"
+  }
 }
