@@ -14,7 +14,8 @@ def getOnlyGrey(arr):
 
 
 def getListColors(path):
-    img = Image.open(path)
+    img = Image.open(path).convert('LA')
+    img.save('E:/'+str(np.random.randint(2, size=10))+'.png')
 
     output = []
     px = img.load()
