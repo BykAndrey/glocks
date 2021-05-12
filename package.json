@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/BykAndrey/glocks#readme",
   "dependencies": {
-    "mathjs": "^6.2.5"
+    "mathjs": "^7.5.1"
   }
 }
